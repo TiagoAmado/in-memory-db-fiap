@@ -1,0 +1,112 @@
+[
+  {
+    "question_text": "Qual é a resposta de nada?",
+    "alternativa_a": "1",
+    "alternativa_b": "23",
+    "alternativa_c": "42",
+    "alternativa_d": "11",
+    "alternativa_correta": "d",
+    "dificuldade": "fácil",
+    "assunto": "geek",
+    "question_id": 2
+  },
+  {
+    "question_text": "Qual é a resposta de tudo?",
+    "alternativa_a": "1",
+    "alternativa_b": "23",
+    "alternativa_c": "42",
+    "alternativa_d": "11",
+    "alternativa_correta": "c",
+    "dificuldade": "fácil",
+    "assunto": "geek",
+    "question_id": 1
+  },
+  {
+    "question_text": "Qual é o banco em memória mais difundido no mercado?",
+    "alternativa_a": "apache ignite",
+    "alternativa_b": "refis",
+    "alternativa_c": "valkey",
+    "alternativa_d": "memcache",
+    "alternativa_correta": "b",
+    "dificuldade": "fácil",
+    "assunto": "tech",
+    "question_id": 3
+  },
+  {
+    "question_text": "Qual é o protocolo padrão para transferência de dados na web?",
+    "alternativa_a": "FTP",
+    "alternativa_b": "HTTP",
+    "alternativa_c": "SMTP",
+    "alternativa_d": "SSH",
+    "alternativa_correta": "b",
+    "dificuldade": "médio",
+    "assunto": "tech",
+    "question_id": 4
+  },
+  {
+    "question_text": "Qual linguagem de programação foi criada por Guido van Rossum?",
+    "alternativa_a": "Java",
+    "alternativa_b": "Ruby",
+    "alternativa_c": "Python",
+    "alternativa_d": "PHP",
+    "alternativa_correta": "c",
+    "dificuldade": "médio",
+    "assunto": "tech",
+    "question_id": 5
+  },
+  {
+    "question_text": "Qual é o principal componente de um banco de dados em memória?",
+    "alternativa_a": "RAM",
+    "alternativa_b": "HD",
+    "alternativa_c": "SSD",
+    "alternativa_d": "Cache",
+    "alternativa_correta": "a",
+    "dificuldade": "médio",
+    "assunto": "tech",
+    "question_id": 6
+  },
+  {
+    "question_text": "Em que ano foi lançado o primeiro iPhone?",
+    "alternativa_a": "2005",
+    "alternativa_b": "2006",
+    "alternativa_c": "2007",
+    "alternativa_d": "2008",
+    "alternativa_correta": "c",
+    "dificuldade": "médio",
+    "assunto": "tech",
+    "question_id": 7
+  },
+  {
+    "question_text": "Qual é o nome do supercomputador da IBM que venceu um campeão de xadrez?",
+    "alternativa_a": "Watson",
+    "alternativa_b": "Deep Blue",
+    "alternativa_c": "AlphaGo",
+    "alternativa_d": "HAL 9000",
+    "alternativa_correta": "b",
+    "dificuldade": "difícil",
+    "assunto": "tech",
+    "question_id": 8
+  },
+  {
+    "question_text": "Qual é a velocidade da luz no vácuo?",
+    "alternativa_a": "299.792 km/s",
+    "alternativa_b": "300.000 km/s",
+    "alternativa_c": "199.792 km/s",
+    "alternativa_d": "250.000 km/s",
+    "alternativa_correta": "a",
+    "dificuldade": "difícil",
+    "assunto": "ciência",
+    "question_id": 9
+  },
+  {
+    "question_text": "Qual é o principal benefício de usar um banco de dados em memória?",
+    "alternativa_a": "Menor custo",
+    "alternativa_b": "Maior capacidade",
+    "alternativa_c": "Maior velocidade",
+    "alternativa_d": "Maior segurança",
+    "alternativa_correta": "c",
+    "dificuldade": "médio",
+    "assunto": "tech",
+    "question_id": 10
+  }
+] 
