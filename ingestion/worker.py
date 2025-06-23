@@ -16,8 +16,8 @@ REDIS_PORT = int(os.getenv('REDIS_PORT', 6379))
 PG_HOST = os.getenv('PG_HOST', 'postgres')
 PG_PORT = int(os.getenv('PG_PORT', 5432))
 PG_DB = os.getenv('PG_DB', 'dw')
-PG_USER = os.getenv('PG_USER', 'user')
-PG_PASSWORD = os.getenv('PG_PASSWORD', 'senhaForte2025')
+PG_USER = os.getenv('PG_USER', 'dw_user')
+PG_PASSWORD = os.getenv('PG_PASSWORD', 'dw_password')
 
 def create_tables_if_not_exist(conn):
     with conn.cursor() as cur:
